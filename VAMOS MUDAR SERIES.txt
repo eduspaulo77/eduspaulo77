@@ -5,10 +5,6 @@
 #EXTM3U
 
 
-#EXTM3U
-#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
-
-#EXTM3U
 
 
 ################################################################# NOVELAS TURCA S01
