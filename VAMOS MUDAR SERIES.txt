@@ -5,6 +5,12 @@
 #EXTM3U
 
 
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
+
+#EXTM3U
+
+
 ################################################################# NOVELAS TURCA S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP01
@@ -338,6 +344,449 @@ http://shd13.oneplayer.site/SHD13/248833/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0GC0QSy.png" group-title="Série | MÚSICA E SONHOS S01",S01 E08
 http://shd13.oneplayer.site/SHD13/248833/1x8.mp4
+
+############################################################################ TRAPPED S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E01
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E02
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E03
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E04
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E05
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E06
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E07
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E08
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E09
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E10
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x10.mp4
+
+############################################################################ TRAPPED S02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E01
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E02
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E03
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E04
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E05
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E06
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E07
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E08
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E09
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E10
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x10.mp4
+
+############################################################################ Reality | MEU NAMORADO COREANO S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCkPKBy.png" group-title="Reality | MEU NAMORADO COREANO S01",S01 E01
+http://shd13.oneplayer.site/SHD13/292493/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCkPKBy.png" group-title="Reality | MEU NAMORADO COREANO S01",S01 E02
+http://shd13.oneplayer.site/SHD13/292493/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCkPKBy.png" group-title="Reality | MEU NAMORADO COREANO S01",S01 E03
+http://shd13.oneplayer.site/SHD13/292493/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCkPKBy.png" group-title="Reality | MEU NAMORADO COREANO S01",S01 E04
+http://shd13.oneplayer.site/SHD13/292493/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCkPKBy.png" group-title="Reality | MEU NAMORADO COREANO S01",S01 E05
+http://shd13.oneplayer.site/SHD13/292493/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCkPKBy.png" group-title="Reality | MEU NAMORADO COREANO S01",S01 E06
+http://shd13.oneplayer.site/SHD13/292493/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCkPKBy.png" group-title="Reality | MEU NAMORADO COREANO S01",S01 E07
+http://shd13.oneplayer.site/SHD13/292493/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCkPKBy.png" group-title="Reality | MEU NAMORADO COREANO S01",S01 E08
+http://shd13.oneplayer.site/SHD13/292493/1x8.mp4
+
+
+############################################################################ VIRAL HIT  01
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/qsSefHm.png" group-title="Dorama | VIRAL HIT S01",S01 E01
+http://shd13.oneplayer.site/SHD13/312493/1x1.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/qsSefHm.png" group-title="Dorama | VIRAL HIT S01",S01 E02
+http://shd13.oneplayer.site/SHD13/312493/1x2.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/qsSefHm.png" group-title="Dorama | VIRAL HIT S01",S01 E03
+http://shd13.oneplayer.site/SHD13/312493/1x3.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/qsSefHm.png" group-title="Dorama | VIRAL HIT S01",S01 E04
+http://shd13.oneplayer.site/SHD13/312493/1x4.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/qsSefHm.png" group-title="Dorama | VIRAL HIT S01",S01 E05
+http://shd13.oneplayer.site/SHD13/312493/1x5.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/qsSefHm.png" group-title="Dorama | VIRAL HIT S01",S01 E06
+http://shd13.oneplayer.site/SHD13/312493/1x6.mp4
+
+
+################################################################# DE REPENTE HUMANA S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E01
+http://shd13.oneplayer.site/SHD13/270420/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E02
+http://shd13.oneplayer.site/SHD13/270420/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E03
+http://shd13.oneplayer.site/SHD13/270420/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E04
+http://shd13.oneplayer.site/SHD13/270420/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E05
+http://shd13.oneplayer.site/SHD13/270420/1x.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E06
+http://shd13.oneplayer.site/SHD13/270420/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E07
+http://shd13.oneplayer.site/SHD13/270420/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E08
+http://shd13.oneplayer.site/SHD13/270420/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E09
+http://shd13.oneplayer.site/SHD13/270420/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E10
+http://shd13.oneplayer.site/SHD13/270420/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E11
+http://shd13.oneplayer.site/SHD13/270420/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E12
+http://shd13.oneplayer.site/SHD13/270420/1x12.mp4
+
+#################################################################  O Amor Pode Ser Traduzido? S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E01
+http://shd13.oneplayer.site/SHD13/229891/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E02
+http://shd13.oneplayer.site/SHD13/229891/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E03
+http://shd13.oneplayer.site/SHD13/229891/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E04
+http://shd13.oneplayer.site/SHD13/229891/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E05
+http://shd13.oneplayer.site/SHD13/229891/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E06
+http://shd13.oneplayer.site/SHD13/229891/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E07
+http://shd13.oneplayer.site/SHD13/229891/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E08
+http://shd13.oneplayer.site/SHD13/229891/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E09
+http://shd13.oneplayer.site/SHD13/229891/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E10
+http://shd13.oneplayer.site/SHD13/229891/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E11
+http://shd13.oneplayer.site/SHD13/229891/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E12
+http://shd13.oneplayer.site/SHD13/229891/1x12.mp4
+
+#################################################################  Hong, A Infiltrada S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E01
+http://shd13.oneplayer.site/SHD13/293608/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E02
+http://shd13.oneplayer.site/SHD13/293608/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E03
+http://shd13.oneplayer.site/SHD13/293608/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E04
+http://shd13.oneplayer.site/SHD13/293608/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E05
+http://shd13.oneplayer.site/SHD13/293608/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E06
+http://shd13.oneplayer.site/SHD13/293608/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E07
+http://shd13.oneplayer.site/SHD13/293608/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E08
+http://shd13.oneplayer.site/SHD13/293608/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E09
+http://shd13.oneplayer.site/SHD13/293608/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E10
+http://shd13.oneplayer.site/SHD13/293608/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E11
+http://shd13.oneplayer.site/SHD13/293608/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6ki54D.png" group-title="Dorama | HONG A INFILTRADA",S01 E12
+http://shd13.oneplayer.site/SHD13/293608/1x12.mp4
+
+
+################################################################# FEBRE D PRIMAVERA  S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E01
+http://shd13.oneplayer.site/SHD13/280948/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E02
+http://shd13.oneplayer.site/SHD13/280948/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E03
+http://shd13.oneplayer.site/SHD13/280948/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E04
+http://shd13.oneplayer.site/SHD13/280948/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E05
+http://shd13.oneplayer.site/SHD13/280948/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E06
+http://shd13.oneplayer.site/SHD13/280948/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E07
+http://shd13.oneplayer.site/SHD13/280948/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E08
+http://shd13.oneplayer.site/SHD13/280948/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E09
+http://shd13.oneplayer.site/SHD13/280948/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E10
+http://shd13.oneplayer.site/SHD13/280948/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E11
+http://shd13.oneplayer.site/SHD13/280948/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfLP03w.png" group-title="Dorama | FEBRE D PRIMAVERA",S01 E12
+http://shd13.oneplayer.site/SHD13/280948/1x12.mp4
+
+
+################################################################# SPEED AND LOVE S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E01
+http://shd13.oneplayer.site/SHD13/279041/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E02
+http://shd13.oneplayer.site/SHD13/279041/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E03
+http://shd13.oneplayer.site/SHD13/279041/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E04
+http://shd13.oneplayer.site/SHD13/279041/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E05
+http://shd13.oneplayer.site/SHD13/279041/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E06
+http://shd13.oneplayer.site/SHD13/279041/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E07
+http://shd13.oneplayer.site/SHD13/279041/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E08
+http://shd13.oneplayer.site/SHD13/279041/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E09
+http://shd13.oneplayer.site/SHD13/279041/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E10
+http://shd13.oneplayer.site/SHD13/279041/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E11
+http://shd13.oneplayer.site/SHD13/279041/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E12
+http://shd13.oneplayer.site/SHD13/279041/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E13
+http://shd13.oneplayer.site/SHD13/279041/1x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E14
+http://shd13.oneplayer.site/SHD13/279041/1x14.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E15
+http://shd13.oneplayer.site/SHD13/279041/1x15.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E16
+http://shd13.oneplayer.site/SHD13/279041/1x16.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E17
+http://shd13.oneplayer.site/SHD13/279041/1x17.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E18
+http://shd13.oneplayer.site/SHD13/279041/1x18.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E19
+http://shd13.oneplayer.site/SHD13/279041/1x19.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E20
+http://shd13.oneplayer.site/SHD13/279041/1x20.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E21
+http://shd13.oneplayer.site/SHD13/279041/1x21.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E22
+http://shd13.oneplayer.site/SHD13/279041/1x22.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E23
+http://shd13.oneplayer.site/SHD13/279041/1x23.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E24
+http://shd13.oneplayer.site/SHD13/279041/1x24.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E25
+http://shd13.oneplayer.site/SHD13/279041/1x25.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E26
+http://shd13.oneplayer.site/SHD13/279041/1x26.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E27
+http://shd13.oneplayer.site/SHD13/279041/1x27.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E28
+http://shd13.oneplayer.site/SHD13/279041/1x28.mp4
+
+################################################################# The Best Thing S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E01
+http://shd12.oneplayer.site/token/SHD12/256128/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E02
+http://shd12.oneplayer.site/token/SHD12/256128/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E03
+http://shd12.oneplayer.site/token/SHD12/256128/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E04
+http://shd12.oneplayer.site/token/SHD12/256128/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E05
+http://shd12.oneplayer.site/token/SHD12/256128/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E06
+http://shd12.oneplayer.site/token/SHD12/256128/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E07
+http://shd12.oneplayer.site/token/SHD12/256128/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E08
+http://shd12.oneplayer.site/token/SHD12/256128/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E09
+http://shd12.oneplayer.site/token/SHD12/256128/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E10
+http://shd12.oneplayer.site/token/SHD12/256128/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E11
+http://shd12.oneplayer.site/token/SHD12/256128/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E12
+http://shd12.oneplayer.site/token/SHD12/256128/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E13
+http://shd12.oneplayer.site/token/SHD12/256128/1x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E14
+http://shd12.oneplayer.site/token/SHD12/256128/1x14.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E15
+http://shd12.oneplayer.site/token/SHD12/256128/1x15.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E16
+http://shd12.oneplayer.site/token/SHD12/256128/1x16.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E17
+http://shd12.oneplayer.site/token/SHD12/256128/1x17.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E18
+http://shd12.oneplayer.site/token/SHD12/256128/1x18.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E19
+http://shd12.oneplayer.site/token/SHD12/256128/1x19.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E20
+http://shd12.oneplayer.site/token/SHD12/256128/1x20.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E21
+http://shd12.oneplayer.site/token/SHD12/256128/1x21.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E22
+http://shd12.oneplayer.site/token/SHD12/256128/1x22.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E23
+http://shd12.oneplayer.site/token/SHD12/256128/1x23.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E24
+http://shd12.oneplayer.site/token/SHD12/256128/1x24.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E25
+http://shd12.oneplayer.site/token/SHD12/256128/1x25.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E26
+http://shd12.oneplayer.site/token/SHD12/256128/1x26.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E27
+http://shd12.oneplayer.site/token/SHD12/256128/1x27.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E28
+http://shd12.oneplayer.site/token/SHD12/256128/1x28.mp4
+
+
+
+
+
 
 
 
