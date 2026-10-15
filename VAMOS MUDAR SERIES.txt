@@ -776,6 +776,7 @@ http://shd12.oneplayer.site/token/SHD12/256128/1x26.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E27
 http://shd12.oneplayer.site/token/SHD12/256128/1x27.mp4
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E28
 http://shd12.oneplayer.site/token/SHD12/256128/1x28.mp4
 
