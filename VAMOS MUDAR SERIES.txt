@@ -24,3 +24,11 @@ https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9NqIrB.png" group-title="Canais | INFANTIL",TG Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05E0q6L.png" group-title="Canais | INFANTIL",TV Gallo
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbc6oFF.png " group-title="Canais | INFANTIL",D.P.A
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
