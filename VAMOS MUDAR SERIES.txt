@@ -16,17 +16,16 @@ https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w459304988.m3u
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
-http://gerenciar.vivatele.com/viva_padrao/viva2384/15
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Canais | INFANTIL",Toon Googles HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Canais | INFANTIL",TRU TV
-http://138.204.86.4:8080/TRUTV_HD/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eu93gIQ.png " group-title="Canais | INFANTIL",Mr Bean Animated
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
+http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9NqIrB.png" group-title="Canais | INFANTIL",TG Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
