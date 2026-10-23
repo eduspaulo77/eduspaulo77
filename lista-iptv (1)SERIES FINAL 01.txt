@@ -2,6 +2,7 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
 
+
 #EXTM3U
 
 
@@ -121,6 +122,7 @@ http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evYl128.png" group-title="Série | A NOVA VIDA D TOBY S01",S01 E08
 http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/156401/1x8.mp4
 
+
 ############################################################################ SPIDER-NOIR S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Efh9FE1.png" group-title="Série | SPIDER-NOIR S01",S01 E01
@@ -147,6 +149,7 @@ http://shd13.oneplayer.site/SHD13/220102/1x7.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Efh9FE1.png" group-title="Série | SPIDER-NOIR S01",S01 E08
 http://shd13.oneplayer.site/SHD13/220102/1x8.mp4
 
+
 ############################################################################ ONE PIECE: A Série S01
 
 #EXTINF:-1 tvg-name="ONE PIECE: A Série S01 E01" tvg-name="ONE PIECE: A Série S01 E01" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E01
@@ -172,6 +175,7 @@ http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/
 
 #EXTINF:-1 tvg-name="ONE PIECE: A Série E08" tvg-name="ONE PIECE: A Série S01 E08" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E08
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x8.mp4
+
 
 ############################################################################ ONE PIECE S02
 
@@ -253,6 +257,7 @@ http://shd13.oneplayer.site/SHD13/66551/1x16.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vk5DVNH.png" group-title="Série | THE MICK S01",S01 E17
 http://shd13.oneplayer.site/SHD13/66551/1x17.mp4
 
+
 ################################################################# THE MICK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vk5DVNH.png" group-title="Série | THE MICK S02",S01 E01
@@ -315,6 +320,7 @@ http://shd13.oneplayer.site/SHD13/66551/2x19.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vk5DVNH.png" group-title="Série | THE MICK S02",S01 E20
 http://shd13.oneplayer.site/SHD13/66551/2x20.mp4
 
+
 ############################################################################ NCIS: Tony & Ziva S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qn3en2G.png" group-title="Série | NCIS: Tony & Ziva S01",S01 E01
@@ -347,6 +353,7 @@ http://shd13.oneplayer.site/SHD13/247732/1x9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qn3en2G.png" group-title="Série | NCIS: Tony & Ziva S01",S01 E10
 http://shd13.oneplayer.site/SHD13/247732/1x10.mp4
 
+
 ################################################################# Os Runarounds: Música e Sonhos S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0GC0QSy.png" group-title="Série | MÚSICA E SONHOS S01",S01 E01
@@ -372,6 +379,7 @@ http://shd13.oneplayer.site/SHD13/248833/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0GC0QSy.png" group-title="Série | MÚSICA E SONHOS S01",S01 E08
 http://shd13.oneplayer.site/SHD13/248833/1x8.mp4
+
 
 ############################################################################ TRAPPED S01
 
@@ -405,6 +413,7 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S01",S01 E10
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/1x10.mp4
 
+
 ############################################################################ TRAPPED S02
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E01
@@ -436,6 +445,7 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E10
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x10.mp4
+
 
 ############################################################################ Reality | MEU NAMORADO COREANO S01
 
@@ -523,6 +533,7 @@ http://shd13.oneplayer.site/SHD13/270420/1x11.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n086EqQ.png" group-title="Dorama | DE REPENTE HUMANA S01",S01 E12
 http://shd13.oneplayer.site/SHD13/270420/1x12.mp4
 
+
 #################################################################  O Amor Pode Ser Traduzido? S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E01
@@ -560,6 +571,7 @@ http://shd13.oneplayer.site/SHD13/229891/1x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iqplwxt.png" group-title="Dorama |  O AMOR PODE SER TRADUZIDO?",S01 E12
 http://shd13.oneplayer.site/SHD13/229891/1x12.mp4
+
 
 #################################################################  Hong, A Infiltrada S01
 
@@ -725,6 +737,7 @@ http://shd13.oneplayer.site/SHD13/279041/1x27.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E28
 http://shd13.oneplayer.site/SHD13/279041/1x28.mp4
 
+
 ################################################################# The Best Thing S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cOJV1J5.png" group-title="Dorama | MELHOR DE TUDO S01",S01 E01
@@ -850,6 +863,7 @@ http://shd13.oneplayer.site/SHD13/284744/1x11.mp4
 #EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E12
 http://shd13.oneplayer.site/SHD13/284744/1x12.mp4
 
+
 ################################################################# BEIJO EXPLOSIVO S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E01
@@ -893,6 +907,7 @@ http://shd13.oneplayer.site/SHD13/281013/1x13.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E14
 http://shd13.oneplayer.site/SHD13/281013/1x14.mp4
+
 
 ################################################################# O MANIPULADO
 
@@ -1010,6 +1025,7 @@ http://shd13.oneplayer.site/SHD13/249054/1x7.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E08
 http://shd13.oneplayer.site/SHD13/249054/1x8.mp4
 
+
 ################################################################# GOSTINHO DE AMOR S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gyu4jdD.png" group-title="Dorama | GOSTINHO DE AMOR S01",S01 E01
@@ -1105,6 +1121,7 @@ http://shd13.oneplayer.site/SHD13/283776/1x6.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edvgo0f.png" group-title="Dorama | UNICÓRNIO IMPLACÁVEL S01",S01 E07
 http://shd13.oneplayer.site/SHD13/283776/1x7.mp4
 
+
 ################################################################# SEM PIEDADE S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wa5CSme.png" group-title="Série | SEM PIEDADE S01",S01 E01
@@ -1182,6 +1199,7 @@ http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="Dorama | CLASSE DOS HERÓIS FRACOS S02",S02 E08
 http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/2x8.mp4
 
+
 ################################################################# UMA SEUL DESCONHECIDA S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA S01",S01 E01
@@ -1253,6 +1271,7 @@ http://shd12.oneplayer.site/token/SHD12/243964/1x9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA S01",S01 E10
 http://shd12.oneplayer.site/token/SHD12/243964/1x10.mp4
 
+
 ################################################################# A BOA MÃE MÁ S01 14ep
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ S01",S01 E01
@@ -1297,6 +1316,7 @@ http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ S01",S01 E14
 http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x14.mp4
 
+
 ################################################################# KARMA S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJDaILB.png" group-title="Dorama | KARMA S01",S01 E01
@@ -1316,6 +1336,7 @@ http://shd12.oneplayer.site/token/SHD12/288300/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJDaILB.png" group-title="Dorama | KARMA S01",S01 E06
 http://shd12.oneplayer.site/token/SHD12/288300/1x6.mp4
+
 
 ################################################################# NEWTOPIA S01
 
@@ -1342,6 +1363,7 @@ http://shd12.oneplayer.site/token/SHD12/233742/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA S01",S01 E08
 http://shd12.oneplayer.site/token/SHD12/233742/1x8.mp4
+
 
 ################################################################# SEGURO PARA DIVORCIADOS S01
 
@@ -1380,6 +1402,7 @@ http://shd12.oneplayer.site/token/SHD12/258764/1x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS S01",S01 E12
 http://shd12.oneplayer.site/token/SHD12/258764/1x12.mp4
+
 
 ################################################################# KAKEGURUI APOSTA S01
 
@@ -1497,6 +1520,7 @@ http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO S01",S01 E16
 http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x16.mp4
 
+
 ################################################################# RESIDENT PLAYBOOK S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK S01",S01 E01
@@ -1534,6 +1558,7 @@ http://shd12.oneplayer.site/token/SHD12/235355/1x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK S01",S01 E12
 http://shd12.oneplayer.site/token/SHD12/235355/1x12.mp4
+
 
 ################################################################# DEPOIS DO ADEUS S01 S01
 
@@ -1594,6 +1619,7 @@ http://shd12.oneplayer.site/token/SHD12/230448/1x9.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON S01",S01 E10
 http://shd12.oneplayer.site/token/SHD12/230448/1x10.mp4
 
+
 ################################################################# AMOR E BATATAS  S01 S01 ate12
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS S01",S01 E01
@@ -1631,6 +1657,7 @@ http://shd12.oneplayer.site/token/SHD12/254391/1x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS S01",S01 E12
 http://shd12.oneplayer.site/token/SHD12/254391/1x2.mp4
+
 
 ################################################################# The Trunk S01 S01 até 8ep
 
@@ -1709,6 +1736,7 @@ http://shd11.oneplayer.site/token/SHD11/215720/1x15.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pTMWLf.png" group-title="Dorama | RAINHA DAS LÁGRIMAS S01",S01 E16
 http://shd11.oneplayer.site/token/SHD11/215720/1x16.mp4
 
+
 ################################################################# O AMOR MORA AO LADO S01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E01
@@ -1759,6 +1787,7 @@ http://shd12.oneplayer.site/token/SHD12/241454/1x15.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E16
 http://shd12.oneplayer.site/token/SHD12/241454/1x16.mp4
 
+
 ################################################################# ESCOLA DOS ROMANCES PROIBIDOS S01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E01
@@ -1784,6 +1813,7 @@ http://shd12.oneplayer.site/token/SHD12/257221/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E08
 http://shd12.oneplayer.site/token/SHD12/257221/1x8.mp4
+
 
 ################################################################# SE A VIDA TE DER TANGERINAS S01
 
@@ -1829,4 +1859,4 @@ http://shd12.oneplayer.site/token/SHD12/219246/1x13.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E14
 http://shd12.oneplayer.site/token/SHD12/219246/1x14.mp4
 
-#EXTINF:-1 tvg-logo="https:
+
