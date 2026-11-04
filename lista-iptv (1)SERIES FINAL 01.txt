@@ -41,14 +41,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/7N_Sports/MAVTV_Brasil_BR/MAVTV_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fU9ulW.png" group-title="Canais | ESPORTES",Esportes Brasília 
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Canais | ESPORTES",FUEL TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV (TCL TV)
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES",Woohoo
-http://gerenciar.vivatele.com/viva_padrao/viva2384/73 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Canais | ESPORTES",Canal do Inter
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="Canais | ESPORTES",PONTV
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES", Ge TV HD (SamsungTV)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u
