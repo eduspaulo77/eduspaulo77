@@ -9,8 +9,6 @@
 ################################################################# ESPORT
 
 
-
-
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES", GE TV (TCL TV) https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV FHD
@@ -18,9 +16,6 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="Canais | ESPORTES",XSports
 http://168.205.87.198:8555/live/1354/123456/309.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" grupo-title="Canais | "ESPORTES", Desempedido HD
-https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEA7KyI.png" grupo-título="Canais | ESPORTES", Acelerados
 https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
@@ -40,3 +35,14 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV FHD
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eaKYJu.png" group-title="Canais | ESPORTES",Racer Brasil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/7N_Sports/MAVTV_Brasil_BR/MAVTV_Brasil.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fU9ulW.png" group-title="Canais | ESPORTES",Esportes Brasília 
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Canais | ESPORTES",FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES",Woohoo
+http://gerenciar.vivatele.com/viva_padrao/viva2384/73 
