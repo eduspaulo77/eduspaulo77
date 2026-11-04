@@ -38,7 +38,42 @@ https://cc-zvni27dp2ukyu.akamaized.net/ogc/acel/acel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j91PkWC.png" group-title="Canais | ESPORTES",Canal Goat
 https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES", Uhuu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass
+https://manotv.s.gy/Uftv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
+http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD²
+http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
+http://138.204.86.4:8080/ESPN3_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
+http://45.162.64.114:80/ESPN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
+http://138.204.86.4:8080/ESPN4_HD/index.m3u8
+
+#EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
+https://manotv.s.gy/Sp1/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
+https://manotv.s.gy/Sp2/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3 HD
+https://manotv.s.gy/Sp3/index.m3u8
+
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV (TCL TV)
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES", Ge TV HD (SamsungTV)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV HD
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV FHD
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
