@@ -32,3 +32,11 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbc6oFF.png " group-title="Canais | INFANTIL",D.P.A
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Pluto TV | NATUREZA",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaDYTrN.png" group-title="Pluto TV | NATUREZA",O Encantador de Cães
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
